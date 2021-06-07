@@ -7,7 +7,7 @@ module SignIn
         include ::Hanami::Action
         def call (env)
             temp = request.body.read
-            response = request.body.rewind
+            #response = request.body.rewind
             
             signinDetails = JSON.parse(temp)
             puts signinDetails['signinDetails']['email']
