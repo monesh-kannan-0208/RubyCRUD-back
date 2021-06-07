@@ -1,0 +1,5 @@
+adapter: postgres
+host: ec2-34-206-8-52.compute-1.amazonaws.com
+database: d18gs9nb0qhlph
+user: dhnyhcjisebrfv
+password: db684610afc0a65090086eed1f859c37719f23c5bda4ddc4709fc1f5ed585b73

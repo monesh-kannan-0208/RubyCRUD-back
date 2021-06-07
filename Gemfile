@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+gem 'hanami-router'
+gem 'hanami-controller'
+gem 'rack-console'
+gem 'rack-cors'
+gem 'rack'
+gem 'sequel'
+gem 'pg'
+gem 'json'
+gem 'net-smtp'
+gem 'sendgrid-ruby'
